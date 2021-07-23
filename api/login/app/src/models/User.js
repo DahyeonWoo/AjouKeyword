@@ -20,9 +20,10 @@ class User{
                 if(u_id=== client.id && password === client.psword){
                     this.session.logined=true;
                     this.session.u_id=u_id;
+                    console.log(u_id+"님이 로그인했습니다.");
                     const arr=await UserStorage.getRegInfo(u_id);
-                    console.log(arr);
-                    return {success : true, r_id_arr : arr};
+                    console.log(u_id+"님의 등록 정보 : "+arr);
+                    return {success : true, up_id_arr : arr};
                 }
                 return { success:false, msg:"비밀번호가 틀렸습니다." };
             }

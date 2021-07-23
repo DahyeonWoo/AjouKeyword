@@ -34,7 +34,8 @@ class KeyStorage{
     
     static async getKeyInfo(u_id){
         return new Promise((resolve, reject)=>{
-            db.query("select registration.r_id, page.p_name, keyword.keyword from registration inner join page on registration.p_id=page.p_id inner join keyword on registration.k_id=keyword.k_id where registration.u_id=?",[u_id],(err,data)=>{
+            db.query("select registration.up_id, page.p_name, keyword.keyword from registration inner join page on registration.p_id=page.p_id inner join keyword on registration.k_id=keyword.k_id where registration.u_id=?",[u_id],(err,data)=>{
+                console.log(data);
                 if(data.length==0) {resolve({success: true, msg: "아직 등록한 키워드가 존재하지 않습니다."});}
                 else{
                     resolve({success : true, data : data});
@@ -100,19 +101,19 @@ class KeyStorage{
 
     }
 
-    static async deleteReg(r_id){
+    static async deleteReg(up_id){
         return new Promise((resolve, reject)=>{
-            db.query("SELECT * FROM registration WHERE r_id=?",[r_id],(err,data)=>{
+            db.query("SELECT * FROM registration WHERE up_id=?",[up_id],(err,data)=>{
                 if(data.length==0){
                     console.log("해당 registration은 존재하지 않습니다.");
                     reject({success : false, msg : "해당 등록이 존재하지 않습니다."});
                 }
                 else{
-                    db.query("DELETE FROM registration WHERE r_id=?",[r_id],(err,data)=>{
+                    db.query("DELETE FROM registration WHERE up_id=?",[up_id],(err,data)=>{
                         if(err) reject({success:false,msg:err});
                         else{
                             console.log("성공적으로 삭제되었습니다.");
-                            resolve({success : true, msg: "성공적으로 삭제되었습니다.", r_id : r_id})
+                            resolve({success : true, msg: "성공적으로 삭제되었습니다.", up_id : up_id})
                         };
                     })
                 }

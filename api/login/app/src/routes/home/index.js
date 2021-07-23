@@ -19,11 +19,6 @@ router.post("/find/pw",ctrl.account.findPw);
 
 //firebase 푸쉬알림
 
-router.post("/send", ctrl.fdb.send);
-router.get("/keyword", ctrl.fdb.get_all);
-//router.get('/keyword/:id', ctrl.fdb.get_data);
-router.put('/keyword/:id', ctrl.fdb.update_data);
-router.delete('/keyword/:id', ctrl.fdb.delete);
 
 //keyManage
 router.post("/keyword/add",ctrl.keyManage.addKey);

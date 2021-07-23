@@ -22,7 +22,7 @@ class UserStorage{
             db.query("SELECT * FROM registration WHERE u_id=?;",[u_id],(err, data)=>{
                 if(err) reject(`${err}`);
                 for(let i=0; i<data.length; i++){
-                    arr[i]=data[i].r_id;
+                    arr[i]=data[i].up_id;
                 }
                 resolve(arr);
             });
