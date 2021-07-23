@@ -1,8 +1,8 @@
 const mysql = require("mysql");
 const db=mysql.createConnection({
 	host : 'localhost',
-	user : "root",
-	password : "",
+	user : "master",
+	password : "master",
 	database : 'key_db',
     port : 3306,
 	multipleStatements : true
