@@ -1,8 +1,6 @@
 # API
-api 서버 제작
 
----
-# 구조/기능 설명
+### 구조/기능 설명
 
 #### 1. 계정
   1-1. 로그인  
@@ -19,16 +17,16 @@ api 서버 제작
   3-1. 포탈 게시물 가져오기  
   
 #### 1. 로그인
-**URL** : /login  
-**METHOD** : /POST  
-**REQUEST BODY** :
+-**URL** : /login  
+-**METHOD** : /POST  
+-**REQUEST BODY** :
 ```
 {  
   id : (사용자 아이디),
   psword : (사용자 비밀번호)  
 }
 ```
-**RETURN** :  
+-**RETURN** :  
 성공
 ```
 {
@@ -39,12 +37,12 @@ api 서버 제작
 실패  
 
 ---
-# 필요한 학습
+### 필요한 학습
 
 
 
 ---
-# 어려웠던 점, TroubleShooting
+### 어려웠던 점, TroubleShooting
 
 
 
