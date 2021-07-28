@@ -6,10 +6,15 @@
 안녕하세요! 팀 KEY입니다.
 
 - [김승은](https://github.com/julie0005)
+: nodejs api 구현
 - [김예원](https://github.com/yeye921)
+: react-native 프론트 화면 구현
 - [박윤정](https://github.com/pyj127)
+: database 스키마 구성, 크롤링
 - [우다현](https://github.com/defwdahyun0)
+: react-native 프론트 화면 구현
 - [한동민](https://github.com/handevmin)
+: nodejs api 구현, firebase 푸시 알림
 
 ## 🔑 **서비스 소개**
 
