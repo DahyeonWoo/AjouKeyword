@@ -4,11 +4,6 @@ const express = require("express");
 const router =express.Router();
 const ctrl = require("./home.ctrl");
 
-//get으로 요청시 화면 렌더링
-router.get("/", ctrl.output.hello);
-router.get("/login", ctrl.output.login);
-router.get("/register", ctrl.output.register);
-
 //account
 router.post("/login", ctrl.account.login);
 router.post("/register", ctrl.account.register);

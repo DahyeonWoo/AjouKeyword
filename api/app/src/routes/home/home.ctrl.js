@@ -158,7 +158,6 @@ const main={
 };
 
 module.exports={
-    output,
     account,
     keyManage,
     main

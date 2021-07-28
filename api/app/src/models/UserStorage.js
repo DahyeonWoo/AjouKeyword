@@ -51,12 +51,19 @@ class UserStorage{
     
     static async save(userInfo){
         return new Promise((resolve, reject)=>{
-            db.query("INSERT INTO users(u_id,email,password) VALUES(?,?,?);",
-                [userInfo.id, userInfo.email, userInfo.psword],
-                (err, data)=>{
-                if(err) reject(`${err}`);
-                resolve({ success : true });
+            db.query("SELECT * FROM users WHERE u_id=?",[userInfo.id],(err,data)=>{
+                if(data.length>0) reject(`${'이미 존재하는 계정입니다.'}`);
+                else{
+                    db.query("INSERT INTO users(u_id,email,password) VALUES(?,?,?);",
+                        [userInfo.id, userInfo.email, userInfo.psword],
+                        (err, data)=>{
+                        if(err) reject(`${err}`);
+                        resolve({ success : true });
+                    });
+                }
+                if(err) reject({success:false, msg:err});
             });
+            
         });   
     }
 
