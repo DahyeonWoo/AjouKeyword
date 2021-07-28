@@ -75,7 +75,7 @@
 ## 3. Development result
 
 ### 로그인 화면
-<img src="./images/login.jpg" width="280" height="500"/>
+<img src="./images/login.jpg" width="280" height="520"/>
 
 #### id 찾기 화면
 ![id 찾기]()
@@ -85,10 +85,10 @@
 ![회원가임]()
 
 ### Main 화면
-<img src="./images/portal.jpg" width="280" height="500"/>
+<img src="./images/portal.jpg" width="280" height="520"/>
 
 #### keyword 추가 화면
-<img src="./images/addkeyword.jpg" width="280" height="500"/>
+<img src="./images/addkeyword.jpg" width="280" height="520"/>
 
 #### Setting 화면
 ![설정]()
