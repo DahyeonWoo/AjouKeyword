@@ -82,23 +82,24 @@
 #### 로그인 화면
 <img src="./images/signin.jpg" width="286" height="530"/>
 
-#### id 찾기 화면
-<img src="./images/findid.jpg" width="286" height="530"/>
-
-#### 비밀번호 찾기 화면
-<img src="./images/findpw.jpg" width="286" height="530"/>
+#### 아이디 찾기, 비밀번호 찾기 화면
+<img src="./images/findid.jpg" width="286" height="530"/><img src="./images/findpw.jpg" width="286" height="530"/>
 
 #### 회원가입 화면
 <img src="./images/signup.jpg" width="286" height="530"/>
 
-### Main 화면
+### Notice 화면
 <img src="./images/notice_all.jpg" width="280" height="530"/><img src="./images/notice_personal.jpg" width="280" height="530"/>
 
-#### keyword 추가 화면
+#### Keyword 추가 화면
 <img src="./images/add.jpg" width="280" height="530"/>
 
 #### Setting 화면
 <img src="./images/settings.jpg" width="280" height="530"/>
+
+<img src="./images/account.jpg" width="280" height="530"/><img src="./images/updateemail.jpg" width="280" height="530"/><img src="./images/updatepw.jpg" width="280" height="530"/><img src="./images/logout.jpg" width="280" height="530"/><img src="./images/quit.jpg" width="280" height="530"/>
+
+<img src="./images/alarmcycle.jpg" width="280" height="530"/><img src="./images/condition.jpg" width="280" height="530"/><img src="./images/personal.jpg" width="280" height="530"/><img src="./images/contact.jpg" width="280" height="530"/>
 
 <br/>
 
