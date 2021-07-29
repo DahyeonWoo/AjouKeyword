@@ -8,13 +8,13 @@
 - [김승은](https://github.com/julie0005)
 : nodejs api 구현
 - [김예원](https://github.com/yeye921)
-: react-native 프론트 화면 구현
+: react-native 로그인, 키워드추가 화면 및 알림 기능 구현
 - [박윤정](https://github.com/pyj127)
 : database 스키마 구성, 크롤링
 - [우다현](https://github.com/defwdahyun0)
-: react-native 프론트 화면 구현
+: react-native 회원가입, 아이디/비밀번호 찾기, 메인, 설정 화면 구현
 - [한동민](https://github.com/handevmin)
-: nodejs api 구현, firebase 푸시 알림
+: nodejs api 구현, firebase 푸시 알림 기능 구현
 
 ## 🔑 **서비스 소개**
 
@@ -88,14 +88,14 @@
 #### 회원가입 화면
 <img src="./images/signup.jpeg" width="286" height="530"/>
 
-### Notice 화면
+#### 메인 화면
 <img src="./images/notice_all.jpeg" width="280" height="530"/><img src="./images/notice_personal.jpeg" width="280" height="530"/>
 
-#### Keyword 추가 화면
+#### 키워드 추가 화면
 <img src="./images/add.jpeg" width="280" height="530"/>
 
-#### Setting 화면
-<img src="./images/settings.jpeg" width="280" height="530"/>
+#### 설정 화면
+<img src="./images/setting.jpeg" width="280" height="530"/>
 
 <img src="./images/account.jpeg" width="186" height="353"/><img src="./images/emailchange.jpeg" width="186" height="353"/><img src="./images/pwchange.jpeg" width="186" height="353"/>
 
