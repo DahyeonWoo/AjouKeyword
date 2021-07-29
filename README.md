@@ -79,24 +79,26 @@
 
 ## 3. Development result
 
-### 로그인 화면
-<img src="./images/login.jpg" width="280" height="520"/>
+#### 로그인 화면
+<img src="./images/signin.jpg" width="286" height="530"/>
 
 #### id 찾기 화면
-![id 찾기]()
+<img src="./images/findid.jpg" width="286" height="530"/>
+
 #### 비밀번호 찾기 화면
-![비밀번호 찾기]()
+<img src="./images/findpw.jpg" width="286" height="530"/>
+
 #### 회원가입 화면
-![회원가임]()
+<img src="./images/signup.jpg" width="286" height="530"/>
 
 ### Main 화면
-<img src="./images/portal.jpg" width="280" height="520"/>
+<img src="./images/_portal.jpg" width="280" height="530"/>
 
 #### keyword 추가 화면
-<img src="./images/addkeyword.jpg" width="280" height="520"/>
+<img src="./images/add.jpg" width="280" height="530"/>
 
 #### Setting 화면
-![설정]()
+<img src="./images/settings.jpg" width="280" height="530"/>
 
 <br/>
 
