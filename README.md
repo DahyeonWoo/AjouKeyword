@@ -98,6 +98,7 @@
 <img src="./images/settings.jpeg" width="280" height="530"/>
 
 <img src="./images/account.jpeg" width="186" height="353"/><img src="./images/emailchange.jpeg" width="186" height="353"/><img src="./images/pwchange.jpeg" width="186" height="353"/>
+
 <img src="./images/logout.jpeg" width="186" height="353"/><img src="./images/quit.jpeg" width="186" height="353"/>
 
 <img src="./images/alarmcycle.jpeg" width="186" height="353"/><img src="./images/condition.jpeg" width="186" height="353"/><img src="./images/personal.jpeg" width="186" height="353"/><img src="./images/contact.jpeg" width="186" height="353"/>
