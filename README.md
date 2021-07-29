@@ -80,27 +80,27 @@
 ## 3. Development result
 
 #### 로그인 화면
-<img src="./images/signin.jpg" width="286" height="530"/>
+<img src="./images/signin.jpeg" width="286" height="530"/>
 
 #### 아이디 찾기, 비밀번호 찾기 화면
-<img src="./images/findid.jpg" width="286" height="530"/><img src="./images/findpw.jpg" width="286" height="530"/>
+<img src="./images/findid.jpeg" width="286" height="530"/><img src="./images/findpw.jpeg" width="286" height="530"/>
 
 #### 회원가입 화면
-<img src="./images/signup.jpg" width="286" height="530"/>
+<img src="./images/signup.jpeg" width="286" height="530"/>
 
 ### Notice 화면
-<img src="./images/notice_all.jpg" width="280" height="530"/><img src="./images/notice_personal.jpg" width="280" height="530"/>
+<img src="./images/notice_all.jpeg" width="280" height="530"/><img src="./images/notice_personal.jpeg" width="280" height="530"/>
 
 #### Keyword 추가 화면
-<img src="./images/add.jpg" width="280" height="530"/>
+<img src="./images/add.jpeg" width="280" height="530"/>
 
 #### Setting 화면
-<img src="./images/settings.jpg" width="280" height="530"/>
+<img src="./images/settings.jpeg" width="280" height="530"/>
 
-<img src="./images/account.jpg" width="186" height="353"/><img src="./images/emailchange.jpg" width="186" height="353"/><img src="./images/pwchange.jpg" width="186" height="353"/>
-<img src="./images/logout.jpg" width="186" height="353"/><img src="./images/quit.jpg" width="186" height="353"/>
+<img src="./images/account.jpeg" width="186" height="353"/><img src="./images/emailchange.jpeg" width="186" height="353"/><img src="./images/pwchange.jpeg" width="186" height="353"/>
+<img src="./images/logout.jpeg" width="186" height="353"/><img src="./images/quit.jpeg" width="186" height="353"/>
 
-<img src="./images/alarmcycle.jpg" width="186" height="353"/><img src="./images/condition.jpg" width="186" height="353"/><img src="./images/personal.jpg" width="186" height="353"/><img src="./images/contact.jpg" width="186" height="353"/>
+<img src="./images/alarmcycle.jpeg" width="186" height="353"/><img src="./images/condition.jpeg" width="186" height="353"/><img src="./images/personal.jpeg" width="186" height="353"/><img src="./images/contact.jpeg" width="186" height="353"/>
 
 <br/>
 
