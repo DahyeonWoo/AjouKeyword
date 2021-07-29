@@ -97,9 +97,10 @@
 #### Setting 화면
 <img src="./images/settings.jpg" width="280" height="530"/>
 
-<img src="./images/account.jpg" width="280" height="530"/><img src="./images/updateemail.jpg" width="280" height="530"/><img src="./images/updatepw.jpg" width="280" height="530"/><img src="./images/logout.jpg" width="280" height="530"/><img src="./images/quit.jpg" width="280" height="530"/>
+<img src="./images/account.jpg" width="140" height="215"/><img src="./images/updateemail.jpg" width="140" height="215"/><img src="./images/updatepw.jpg" width="140" height="215"/>
+<img src="./images/logout.jpg" width="140" height="215"/><img src="./images/quit.jpg" width="140" height="215"/>
 
-<img src="./images/alarmcycle.jpg" width="280" height="530"/><img src="./images/condition.jpg" width="280" height="530"/><img src="./images/personal.jpg" width="280" height="530"/><img src="./images/contact.jpg" width="280" height="530"/>
+<img src="./images/alarmcycle.jpg" width="140" height="215"/><img src="./images/condition.jpg" width="140" height="215"/><img src="./images/personal.jpg" width="140" height="215"/><img src="./images/contact.jpg" width="140" height="215"/>
 
 <br/>
 
