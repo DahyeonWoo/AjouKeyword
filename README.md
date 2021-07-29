@@ -95,7 +95,7 @@
 <img src="./images/add.jpeg" width="280" height="530"/>
 
 #### 설정 화면
-<img src="./images/setting.jpeg" width="280" height="530"/>
+<img src="./images/settings.jpeg" width="280" height="530"/>
 
 <img src="./images/account.jpeg" width="186" height="353"/><img src="./images/emailchange.jpeg" width="186" height="353"/><img src="./images/pwchange.jpeg" width="186" height="353"/>
 
