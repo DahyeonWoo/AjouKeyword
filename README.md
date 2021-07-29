@@ -92,7 +92,7 @@
 <img src="./images/signup.jpg" width="286" height="530"/>
 
 ### Main 화면
-<img src="./images/_portal.jpg" width="280" height="530"/>
+<img src="./images/notice_all.jpg" width="280" height="530"/><img src="./images/notice_personal.jpg" width="280" height="530"/>
 
 #### keyword 추가 화면
 <img src="./images/add.jpg" width="280" height="530"/>
